@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339208723747",
+    "project_id": "eventos1-ac4bc",
+    "storage_bucket": "eventos1-ac4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339208723747:android:e6f14e790b8a4013310096",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio1e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALzUj6nNcLeXDM7et1grd2wICpfdQzTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
